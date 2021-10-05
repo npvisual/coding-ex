@@ -2,7 +2,8 @@
 
 While you could accomplish some of these tasks using libraries like Pandas or Requests, one of the objectives of this exercise is to evaluate your ability to implement with Python’s standard library. Therefore, it is preferred that you use the “batteries that are included” with Python.
 
-You should create new feature branch and clonse this repo locally. You will then use your feature branch to submit a PR (pull request) against `dev` at the end of the exercise to present your masterpiece.
+
+> __HINT :__ You should create new feature branch and clone this repo locally. You will then use your feature branch to submit a PR (pull request) against `dev` at the end of the exercise to present your masterpiece !
 
 
 ### 1. Read CSV files via HTTP and write as JSON
