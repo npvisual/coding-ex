@@ -22,7 +22,7 @@ Those are the links to use :
   - https://test.my.mperativ.de/revenue-supply-chain
   - https://test.my.mperativ.de/revenue-insights/active-sales-pipeline-growth
 
-Credentials : support+testqa@mperativ.se / Password123
+Credentials : support+testqa@mperativ.de / Password123
 
 ### 2. API tests
 
