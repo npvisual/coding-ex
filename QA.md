@@ -12,7 +12,7 @@ You need to demonstrate that you can :
 
 ### 1. End-to-end tests
 
-Using the URL below, provide a few tests that will validate the following areas : 
+Using the URLs below, provide some tests that will validate the following areas : 
   * authentication
   * landing page
   * Active Sales Pipeline Growth in Revenue Insights
