@@ -32,6 +32,11 @@ You can use both positive and negative tests to demonstrate your findings.
 To support your effort, you can take a look at the Swagger interface : 
   - https://test.api.mperativ.de/v1/swagger/index.html
 
+Since the user we provide is not an Admin user, only some API endpoints will be available. Find a way to tell from the response provided. IF you can't immediately find an endpoint, we suggest looking at : 
+
+  - https://test.api.mperativ.de/v1/filters
+
+
 ### 3. Present your findings
 
 If you have time, use a tool of your choice (it could be the one you were using) to present your results (pass / fail).
