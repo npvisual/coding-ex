@@ -85,3 +85,20 @@ For the reports above, define the SQL queries that would generate similar result
  * Explain whether SQL should enforce foreign key constraints, benefits and drawbacks.
 
  * Explain advantages and disadvantages of SQL vs. key-value databases.
+
+### 7. Generative AI (of course !)
+
+Please remember to allocate some time for this little endeavour ! You should already have your own personal token for any of the AI models out there (we prefer the free kind ;) ).
+
+#### a. Chat Completion
+
+Using the tool / toolkit of your choice write (in Python) a chat completion "bot". This should allow you to send a query to a model and return a response.
+
+#### b. Agents
+
+Describe how you would handle more complex tasks (like retrievers, reasoning, function calling, etc.) : 
+ * What tools or framework would you use ?
+ * What would be involved in fine-tuning the responses of that agent ?
+ * How would you test the agent ?
+
+> __HINT :__ you should allocate 15 min for this "challenge" ; it's completely fine to discuss and show us what you would do, in case you run out of time.
